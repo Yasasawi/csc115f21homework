@@ -1,0 +1,10 @@
+Enter up to 1000 integers, <ctrl>-z to stop: 
+Quantity: 16
+Range: -23 to 99
+Sum: 561
+Average: 35.0625
+Data: 
+       -23       -11        -4         4        11
+        19        23        29        39        40
+        56        58        59        69        93
+        99
